@@ -1,1 +1,29 @@
-dsss
+*----------------------------------------------------------*
+|--------------------------CLASS1--------------------------|
+*----------------------------------------------------------*
+Large Language models (LLM)is a language model consisting of a neural network with many parameters.
+There are two types:
+
+->BASE LLM
+Predicts next word based in text training data
+Appears to fill text based on knowledge
+
+->INSTRUCTION BASED LLM
+Tries to follow instructions
+Does what its asked to do
+ALSO built from a base LLM and trained with inputs/outputs
+Use with RLHF: Reinforcement learning with Human Feedback to make it better able to follow instructions
+
+For most practical applications, its better to use Instruction Based LLMs, they are easier to undestand.
+
+Following classes will explain how to be clear and specific
+Prompts should be that way so the LLM does a certain work
+
+
+*----------------------------------------------------------*
+|--------------------------CLASS2--------------------------|
+*----------------------------------------------------------*
+
+TBD
+
+
